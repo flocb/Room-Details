@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c74284dadea0ff6",
+        "id": "3dfdcd8502abecb3",
         "type": "tabs",
         "children": [
           {
-            "id": "1ec5a6d4910f35d7",
+            "id": "bb38e3c001246b63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B Floor/B4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "B4"
+              "title": "New tab"
             }
           }
         ]
@@ -188,6 +184,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ec5a6d4910f35d7",
-  "lastOpenFiles": []
+  "active": "bb38e3c001246b63",
+  "lastOpenFiles": [
+    "B Floor/B026.md",
+    "B Floor/B027.md",
+    "B Floor/B28.md",
+    "B Floor/B29.md",
+    "B Floor/B32.md",
+    "B Floor/B33.md",
+    "B Floor/B34.md",
+    "B Floor/B35.md",
+    "B Floor/B036.md",
+    "B Floor/B37.md",
+    "B Floor/B38.md",
+    "B Floor/B039.md",
+    "B Floor/B40.md",
+    "B Floor/B41.md",
+    "B Floor/B42.md",
+    "B Floor/B43.md",
+    "B Floor/B44.md",
+    "B Floor/B45.md",
+    "B Floor/B46.md",
+    "B Floor/B047.md",
+    "B Floor/B48.md",
+    "B Floor/B049.md",
+    "B Floor/B050.md",
+    "B Floor/B052.md",
+    "B Floor/B53.md",
+    "B Floor/B54.md",
+    "Templates",
+    "New folder",
+    "desktop.ini"
+  ]
 }

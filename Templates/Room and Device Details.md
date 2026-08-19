@@ -1,17 +1,17 @@
 > [!tip] Totals
 > |     |Teachers|Students|
 > | :-- | :--: |:--:|
-> |Towers|1|0|
-> |Monitors|1|0|
-> |Keyboards|1|0|
-> |Mice|0|0|
-> |Ports|1|0|
+> |Towers|||
+> |Monitors|||
+> |Keyboards|||
+> |Mice|||
+> |Ports|||
 > 
 
 > [!success] Port Ranges
 > |     |Teachers|Students| Extras
 > | :-- | :--: |:--:| :--:
-> |Port Ranges|G01 - G02||G04 - G24 and H01 - H06|
+> |Port Ranges||||
 
 > [!example] Switches
 > | Port Range | Switch |
@@ -20,33 +20,11 @@
 > 
 # Teacher Desk
 
-| Port Number | Serial Number | Asset Tag |    Make and Model     | Device Name  | IP  | Notes |
-| :---------: | :-----------: | :-------: | :-------------------: | :----------: | :-: | ----- |
-|     G01     |    63TH2C4    |           | Dell Pro Slim QCS1250 | CBA-WST1-001 |     |       |
+| Port Number | Serial Number | Asset Tag | Make and Model | Device Name | IP  | Notes |
+| :---------: | :-----------: | :-------: | :------------: | :---------: | :-: | ----- |
+|             |               |           |                |             |     |       |
 # Student Desks
 
 | Port Number | Serial Number | Asset Tag | Make and Model | Device Name | IP  | Monitor | Keyboard | Mouse | Notes |
 | :---------: | :-----------: | :-------: | :------------: | :---------: | :-: | :-----: | :------: | :---: | ----- |
 |             |               |           |                |             |     |         |          |       |       |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
